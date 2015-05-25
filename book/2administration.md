@@ -14,17 +14,16 @@ over the xhelp module picture
 
 **The following areas can be administered:**
 
-* Blocks
-* Departments
-* Staff
-* Email Templates
-* Group Permissions
-* Mimetype Management
-* Preferences
+| Areas |  |
+| -- | -- |
+| - Blocks</br> - Departments</br>- Staff</br> - Email Templates</br>- Group Permissions</br>- Mimetype Management</br>- Preferences |![img_2.jpg](../assets/img_0.jpg)  |
+
 
 There is also an xhelp tabular style menu on each administration page. This is
 visible when managing any of the xhelp areas, or by clicking the xhelp module
 picture.
+
+![img_2.jpg](../assets/img_1.jpg) 
 
 #### Preference Configuration
 
@@ -66,6 +65,8 @@ suit the needs of the organization. Changing the name from
 To add a department, select the xhelp module menu item: **Manage
 Departments**
 
+![img_2.jpg](../assets/img_2.jpg)
+
 In the **Add Department:** textbox, enter the name of a department, then click
 submit. The department will then be created. Create as many departments as
 needed.
@@ -96,6 +97,8 @@ though they do not have access to the xhelp module. (so be careful)
 To add an xhelp Staff member, select the xhelp module menu item: **Manage
 Staff**
 
+![img_2.jpg](../assets/img_3.jpg)
+
 In the “**Add Staff Members**” table, Click the **Select Username**: drop down box and choose the user name that should be assigned to a department. Then click the **Departments** the username will be assigned to. Once a username is
 assigned to a department, that user name becomes a staff member.
 
@@ -104,7 +107,11 @@ assigned to a department, that user name becomes a staff member.
 To edit a staff members Assigned Departments, select the xhelp module menu
 item: **Manager Staff**
 
+![img_2.jpg](../assets/img_4.jpg)
+
 In the “**Manage Staff**” table, click the “Edit” button next to the staff member that should be edited.
+
+![img_2.jpg](../assets/img_5.jpg)
 
 Select the Departments the Selected Staff member should be assigned to, and then
 click the “Update Staff button”. The user will be updated.
@@ -125,6 +132,8 @@ with xhelp.
 
 To Modify Group permissions, select the xhelp module menu item: **Group
 Permissions**
+
+![img_2.jpg](../assets/img_6.jpg)
 
 Select the access rights for each group and click the “Submit” button to update
 permissions.
@@ -148,6 +157,8 @@ helpful additions.
 
 To modify an Email Template, select the xhelp module menu item: **Manage
 Email Templates**
+
+![img_2.jpg](../assets/img_7.jpg)
 
 Click on the template that should be edited under the **Template Name**
 column. The **Description**: gives the action that will trigger the template used
