@@ -19,9 +19,14 @@ module. This area displays any tickets that have not been closed by a staff
 member. The user can view activity such as answers and responses sent by the
 staff, and reopen tickets if the Preference configuration has been set to allow this action.
 
+![img_2.jpg](../assets/img_8.jpg)
+
 **Log Ticket**
 
 The **Log Ticket** area is where a user can submit an xhelp ticket. Once a ticket has been submitted, it is considered an “open” status. The department the ticket was submitted to will be notified.
+
+![img_2.jpg](../assets/img_9.jpg)
+
 **Log Ticket Fields**
 *  Username – account of the logged in xoops user.
 *  Assign To: - the department the ticket will be submitted to.
@@ -40,16 +45,21 @@ Reset – clears all fields.
 
 The **View All Tickets** area is where a user can view a list of tickets that have been submitted under their username.
 
+![img_2.jpg](../assets/img_8.jpg)
+
 **Viewing A Ticket**
 
 To view additional information about a ticket that has been submitted, such as
 submission date, staff responses or status changes, click the subject line of the ticket.
+
+![img_2.jpg](../assets/img_10.jpg)
 
 **Adding Additional Information**
 
 Any response submitted by xhelp staff members will appear. A staff member may
 require additional information, or the user may wish to add additional information about the request.
 
+![img_2.jpg](../assets/img_11.jpg)
 
 To Answer or add additional information, enter the text into the “More Info
 Required” text box and click the “Add Info” button. Each time a ticket is
@@ -70,6 +80,8 @@ When a staff member enters the xhelp section. The following areas are available:
 The **Main** area is the default screen that appears when a staff member accesses the xhelp module. This area displays new tickets, tickets that have not yet been assigned to a staff member, and tickets assigned to the currently logged on staff member.
 
 Configuration options also allow the staff member to set refresh preferences and perform word searches for tickets.
+
+![img_2.jpg](../assets/img_12.jpg)
 
 | Staff Access | Ticket Tables |
 | -- | -- |
@@ -92,10 +104,14 @@ and rating reviews. This area is also where “Pre-Defined” responses can be
 created and inserted into a reply to a submitted ticket. At this time, only one
 response template can be used per response.
 
+![img_2.jpg](../assets/img_13.jpg)
+
 **Ticket Actions**
 
 When a ticket has been submitted, there are different actions that a staff member can do with the ticket:
 To take action of a ticket, click the subject line of any table that it appears in and the Ticket Details will be provided.
+
+![img_2.jpg](../assets/img_14.jpg)
 
 **Possible Actions**
 
@@ -118,6 +134,8 @@ history
 
 The search function allows staff members to search other submitted tickets. It is possible to search in the Description or Subject Field, and limit the number or results returned per page.
 
+![img_2.jpg](../assets/img_16.jpg)
+
 #### Managing xhelp Tickets
 
 When a user, or another staff member submits a ticket, it will be sent to a
@@ -127,6 +145,8 @@ respond, edit, delete, and/or print the ticket.
 **Assigning And Taking Ticket Ownership**
 
 Although once a ticket is submitted, any action can take place, it is best to first claim the ticket, or assign it to another staff member.
+
+![img_2.jpg](../assets/img_17.jpg)
 
 ***Assign Ownership:***
 
@@ -141,6 +161,8 @@ To claim ownership, click the subject of the ticket, to load the Ticket Details 
 To respond to a submitted ticket, or a ticket that has been assigned, click the
 subject of the ticket, and select “Add Response” from the Action Table.
 
+![img_2.jpg](../assets/img_18.jpg)
+
 A Pre-Defined Response can be entered along with additional information. A ticket status can also be updated along with the response. Once the response has been entered, click the “Add Response” button.
 
 **Creating Pre-Defined Responses**
@@ -149,3 +171,4 @@ To create a Pre-Defined response, select “Create Response” from the
 “Responses” drop down list. Enter the message that should be inserted into a
 reply into the “Message” text box and set the Signature option. Click the
 “Update” button to save the response
+![img_2.jpg](../assets/img_19.jpg)
