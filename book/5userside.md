@@ -80,70 +80,71 @@ Configuration options also allow the staff member to set refresh preferences and
 
 **Log Ticket**
 
-The Log Ticket area is where a user or staff member submit an xhelp ticket.
+The **Log Ticket** area is where a user or staff member submit an xhelp ticket.
 Once a ticket has been submitted, it is considered an “open” status. The
 department the ticket was submitted to will be notified. The Log Ticket area
 works the same way for “Users” and Staff members.
-My Profile
-The My Profile area is used to check the logged in staff members performance
+
+**My Profile**
+
+The **My Profile** area is used to check the logged in staff members performance
 and rating reviews. This area is also where “Pre-Defined” responses can be
 created and inserted into a reply to a submitted ticket. At this time, only one
 response template can be used per response.
-09/24/20004 Xhelp Manual
-· 18 xhelp user guide .01
-Ticket Actions
-When a ticket has been submitted, there are different actions that a staff member
-can do with the ticket:
-To take action of a ticket, click the subject line of any table that it appears in and
-the Ticket Details will be provided.
-Possible Actions
-To take ownership of a submitted ticket, click the “Claim
-Ownership” icon. Assigning a ticket to another staff member
-can also be performed.
-Ownership
-Once a ticket has been assigned, or claimed, it is no longer
-considered “New”.
-Ticket The staff member can Respond, Edit, Delete or Print the ticket
-Update Priority The ticket priority can be adjusted
-Update Status The status can be updated. A ticket can be closed from this
-menu.
-09/24/20004 Xhelp Manual
-· 19 xhelp user guide .01
-menu.
-Ticket Details
+
+**Ticket Actions**
+
+When a ticket has been submitted, there are different actions that a staff member can do with the ticket:
+To take action of a ticket, click the subject line of any table that it appears in and the Ticket Details will be provided.
+
+**Possible Actions**
+
+| Name | Details |
+| -- | -- |
+| **Ownership** | To take ownership of a submitted ticket, click the “Claim Ownership” icon. Assigning a ticket to another staff member can also be performed. *Once a ticket has been assigned, or claimed, it is no longer considered “New”. *|
+| **Ticket** |  The staff member can Respond, Edit, Delete or Print the ticket|
+| **Update Priority** | The ticket priority can be adjusted  |
+| **Update Status** | The status can be updated. A ticket can be closed from this menu. |
+
+**Ticket Details**
+
 The ticket details displays any responses that have been made, a history of
-actions that have taken place since the ticket was opened, and other tickets that
-have been opened by the user. Additional notification options can also be set.
+actions that have taken place since the ticket was opened, and other tickets that have been opened by the user. Additional notification options can also be set.
+
 This can be a very valuable area to find additional information and problem
 history
-Search
-The search function allows staff members to search other submitted tickets. It is
-possible to search in the Description or Subject Field, and limit the number or
-results returned per page.
-09/24/20004 Xhelp Manual
-· 20 xhelp user guide .01
-Managing xhelp Tickets
+
+**Search**
+
+The search function allows staff members to search other submitted tickets. It is possible to search in the Description or Subject Field, and limit the number or results returned per page.
+
+#### Managing xhelp Tickets
+
 When a user, or another staff member submits a ticket, it will be sent to a
 Department, where the department lead or members can assign, take ownership,
 respond, edit, delete, and/or print the ticket.
-Assigning And Taking Ticket Ownership
-Although once a ticket is submitted, any action can take place, it is best to first
-claim the ticket, or assign it to another staff member.
-Assign Ownership:
-To assign ownership to a staff member, click the subject of the ticket, to load the
-Ticket Details view, and select the Staff members name from the drop down box.
-Claim Ownership
-To claim ownership, click the subject of the ticket, to load the Ticket Details view,
-and select the Claim Ownership icon.
-Responding To an xhelp Ticket
+
+**Assigning And Taking Ticket Ownership**
+
+Although once a ticket is submitted, any action can take place, it is best to first claim the ticket, or assign it to another staff member.
+
+***Assign Ownership:***
+
+To assign ownership to a staff member, click the subject of the ticket, to load the Ticket Details view, and select the Staff members name from the drop down box.
+
+***Claim Ownership***
+
+To claim ownership, click the subject of the ticket, to load the Ticket Details view, and select the Claim Ownership icon.
+
+**Responding To an xhelp Ticket**
+
 To respond to a submitted ticket, or a ticket that has been assigned, click the
 subject of the ticket, and select “Add Response” from the Action Table.
-09/24/20004 Xhelp Manual
-· 21 xhelp user guide .01
-A Pre-Defined Response can be entered along with additional information. A ticket
-status can also be updated along with the response. Once the response has been
-entered, click the “Add Response” button.
-Creating Pre-Defined Responses
+
+A Pre-Defined Response can be entered along with additional information. A ticket status can also be updated along with the response. Once the response has been entered, click the “Add Response” button.
+
+**Creating Pre-Defined Responses**
+
 To create a Pre-Defined response, select “Create Response” from the
 “Responses” drop down list. Enter the message that should be inserted into a
 reply into the “Message” text box and set the Signature option. Click the
