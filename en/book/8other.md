@@ -39,11 +39,8 @@
 ![](../assets/SupportPlans_XoopsObject.png)
 
 
-#### Database structure
+## Database structure
 ![](../assets/DB_structure.png)
-
-#### Smarty variables
-![](../assets/SmartyVariables.png)
 
 
 
@@ -65,3 +62,18 @@
 ![](../assets/flow_logTickets.png)
 ![](../assets/flow_resolvedTickets.png)
 ![](../assets/flow_unresolvedTickets.png)
+
+
+## Smarty variables
+![](../assets/SmartyVariablesAnon.png)
+![](../assets/SmartyVariables_AddTicket.png)
+![](../assets/SmartyVariables_Ticket2.png)
+![](../assets/SmartyVariables_Ticket1.png)
+![](../assets/SmartyVariables_StaffReview.png)
+![](../assets/SmartyVariables_Search.png)
+![](../assets/SmartyVariables_Response.png)
+![](../assets/SmartyVariables_Profile.png)
+![](../assets/SmartyVariables_Lookup.png)
+![](../assets/SmartyVariables_index.png)
+![](../assets/SmartyVariables_Errors.png)
+
