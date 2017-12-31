@@ -41,3 +41,74 @@ ftp://ftp.sunsite.dk/projects/wget/windows/wget-1.9.1b-complete.zip
 
 Unfortunately we cannot support you in the configuration of this
 scheduled task. Please contact your hosting provider with any questions.
+
+## Custom Fields Use Cases
+
+#### 1. Get the custom fields for a given department
+```php
+$hTicketCustField = xoops_getModuleHandler('ticketCustomField');
+$fields =& $hTicketCustField->getByDept($deptid);
+
+foreach($fields as $field) {
+    echo $field->getVar('name'); //Display Pretty Name for field
+    echo $field->getVar('description'); //Display Pretty Description
+    echo $field->getVar('fieldname'); //name of element in form
+    echo $field->getVar('controltype'); //which type of form element to display
+    echo $field->getVar('required'); //Is this entry required?
+    echo $field->getVar('weight'); //Which order should this field be displayed
+    $values = $field->getValues(); // An hash of name / value pairs
+
+    echo $field->getVar('defaultvalue'); //Default value of field
+    $validators = $field->getValidators(); //An array of validation objects to validate data entry
+    echo $field->getVar('promptuser');
+
+    echo $ticket->getCustomVar($field->getVar('fieldname')); // get the current fields value
+}
+```
+#### 2. Create a new custom field
+```php
+$hTicketCustField = xoops_getModuleHandler('ticketCustomField');
+$field =& $hTicketCustField->create();
+$field->setVar('name', $name);
+$field->setVar('description', $description);
+//... additional code
+
+$field->addValidator($validatorObj);
+$field->addValues(array(1 => 'desc1', 2 => 'desc2'));
+$field->addValue(3, 'desc3');
+$field->addDepartments(array(1,3,5));
+$field->addDepartment(4);
+
+$field->removeDepartment(5);
+
+$ret = $hTicketCustField->insert($field);
+```
+
+#### 3. Retrieving a custom ticket var from form submission and storing it in the ticket
+
+```php
+
+// ... Retrieve a list of fields expected for this department (in $fields)
+// ... Set normal ticket values
+
+// Set value for each custom field
+foreach ($fields as $field) {
+    $fieldname  = $field->getVar('fieldname');
+    $submission = $_POST[$fieldname];
+
+    //... Validate Entry
+
+    if ($validEntry) {
+        $ticket->setCustomVar($fieldname, $submission);
+    }
+}
+
+// Store ticket (and custom fields)
+$ret = $hTicket->insert($ticket);
+```
+
+#### 4. Get Custom Fields for a ticket (after dept is set)
+
+```php
+$fields = $ticket->getCustomFields();
+```
