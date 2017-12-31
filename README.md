@@ -2,13 +2,13 @@
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module xHelp
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.9
       
 ![logoModule.png](en/assets/logoModule.png)
             
 ## User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
+© 2018 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
 ## Module Purpose 
 
