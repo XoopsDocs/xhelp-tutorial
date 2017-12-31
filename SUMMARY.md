@@ -7,6 +7,6 @@
 * [The User Side](en/book/5userside.md)
 * [Blocks](en/book/6blocks.md)
 * [Templates](en/book/7templates.md)
-* [Other](en/book/8other.md) //delete, if not used
+* [Technical Information & Workflows](en/book/8other.md)
 * [Module Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
