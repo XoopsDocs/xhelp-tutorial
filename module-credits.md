@@ -1,5 +1,7 @@
-# 9.0 Module Credits
+# Module Credits
 
 This module has been developed by:
+
 * ackbarr 
-* eric_juden
+* eric\_juden
+
