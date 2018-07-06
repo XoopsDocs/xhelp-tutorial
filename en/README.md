@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module xHelp
 #### for XOOPS 2.5.9
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
@@ -15,7 +15,7 @@
 xHelp has been designed as a user-friendly **HelpDesk** application for the XOOPS
 portal system.
 
-![image001.png](assets/image001.png)
+![](assets/image001.png)
 *Figure 1: Main view of the xHelp Module (Admin side)*
 
 ## Download/Fork the Module ![](assets/forkit.png) 
@@ -41,7 +41,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
