@@ -84,7 +84,7 @@ Have a search page to search by:
     - Will have a list of all actions possible by the staff member
 
 #### FINAL NOTE
-Xhelp is still a beta product. Updates and further information can be found on the XOOPS site: http://xoops.org 
+Xhelp is still a beta product. Updates and further information can be found on the XOOPS site: https://xoops.org 
 
 **Possible Issues**
 * Response Ratings not displayed in staff ticket details
