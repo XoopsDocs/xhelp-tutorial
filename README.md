@@ -18,7 +18,7 @@ xHelp has been designed as a user-friendly **HelpDesk** application for the XOOP
 
  _Figure 1: Main view of the xHelp Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 ### Download/Fork the Module ![](.gitbook/assets/forkit.png)
 
